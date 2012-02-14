@@ -1,0 +1,6 @@
+README:
+
+This project was about using parallelism. The first part of the project required using a function called split, which divides a list of data into a prefix and suffix and then applies a function to resulting prefix and suffix. Using this function, we solved various problems such as sorting, filtering, mapping, etc. The second part was about implementing our own version of Google's MapReduce technique. We then used this to solve problems such as finding anagram groups out of a given input or making book recommendations based on books occurring on the same recommendation list. The first part of the project is join_list.rkt (with the support code in join-list-support.rkt). The second part is in map-reduce.rkt (with the support code in map-reduce-support.rkt). 
+
+Further documentation of the assignment can be found at 
+http://www.cs.brown.edu/courses/cs019/2011/assignments/parallelism
